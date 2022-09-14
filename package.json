@@ -2,10 +2,10 @@
   "name": "neosolarized-custom",
   "displayName": "NeoSolarized Custom",
   "description": "Customized version of John Schlesinger's NeoSolarized theme. Designed for vibrancy extension enabled vscode window.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "ChaminduVidyarathne",
   "repository": {
-    "type":"git",
+    "type": "git",
     "url": "https://github.com/CD-Vidyarathne/NeoSolarized-custom"
   },
   "engines": {
