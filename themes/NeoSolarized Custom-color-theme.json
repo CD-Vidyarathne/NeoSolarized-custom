@@ -44,7 +44,7 @@
 		"list.inactiveSelectionBackground": "#010d11",
 		"sideBySideEditor.horizontalBorder": "#ffffff00",
 		"tab.activeBackground": "#010d11",
-		"gitDecoration.modifiedResourceForeground": "#cb4b16",
+		"gitDecoration.modifiedResourceForeground": "#859900",
 		"tab.hoverForeground": "#859900",
 		"tab.border": "#ffffff00",
 		"tab.activeBorder": "#ffffff00",
